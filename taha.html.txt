@@ -1,0 +1,5 @@
+<div class="cta">
+                    <h3>shearing is <br> earning now</h3>
+                    <p>great your opprtinuty now to make money by charing your extra space</p>
+                    <a href="#" class="cta-btn">Know More</a>
+                </div>
